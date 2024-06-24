@@ -1,2 +1,2 @@
 # AutoSrt
-An automatic srt transcriber and japanese-chinese translator based on fast whisper and SakuraLLM
+A Japanese SRT transcriber and Japanese-Chinese SRT translator based on fast-whisper and SakuraLLM.
